@@ -1,5 +1,4 @@
 header {
-  background: center;
   text-align: center;
 }
 
@@ -13,6 +12,7 @@ form{
   text-align: center;
 
 }
+
 label{
   font-weight: thin;
   font-size: 2rem;
